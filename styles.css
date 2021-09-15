@@ -3,8 +3,11 @@
 body{
     font-family: 'Lato', sans-serif;
 }
+h1{
+    color: blue;
+}
 img{
-    margin:1rem;
+    margin:1.5rem;
 }
 a{
     
@@ -37,9 +40,13 @@ p{
     padding-right: 1rem;
     text-align: center;
 }
-.container{
-    color: blue;
-}
+
 read-more{
     margin: 1rem 0rem;
+}
+.container-center{
+    max-width: 600px;
+    margin: auto;
+    padding:1rem;
+    
 }
